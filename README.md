@@ -88,8 +88,11 @@
  
  ```sh 
  
- 
  <- 여기까지 hadoop 계정 [hadoop@localhost ~] 
+ 
+ ```
+ ```sh
+ 
  -> 지금부터 root 계정으로 
    > su 
    > password 
